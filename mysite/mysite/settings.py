@@ -25,7 +25,7 @@ SECRET_KEY = 'pzqqdu0(^r&0u0f5%_u$7+4&3(68bto!(aydkr&hoe&+8a-&li'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cuttlefish']
 
 
 # Application definition
